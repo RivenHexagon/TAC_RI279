@@ -19,4 +19,5 @@ well as the Tape Return wiring harness. I've provided two 3-pin Molex connectors
 and a 2-pole pin header (GND and signal) for the wire ging out to the vu-meter.
 
 Mirrored image of the original PCB:
+
 <img src="https://github.com/RivenHexagon/TAC_RI279/blob/main/RI279B-flip.jpg">
