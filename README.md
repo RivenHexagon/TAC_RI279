@@ -15,8 +15,8 @@ https://github.com/RivenHexagon/TAC_KiCad_lib.git
 ## Further Modifications
 
 The XLR Bus Out connectors were panel mounted and solder wired to the PCB as
-well as the Tape Return wiring harness. I'be provided two 3-pin Molex connectors
+well as the Tape Return wiring harness. I've provided two 3-pin Molex connectors
 and a 2-pole pin header (GND and signal) for the wire ging out to the vu-meter.
 
 Mirrored image of the original PCB:
-<img src="https://github.com/RivenHexagon/TAC_ML547/blob/main/RI279B-flip.jpg">
+<img src="https://github.com/RivenHexagon/TAC_RI279/blob/main/RI279B-flip.jpg">
